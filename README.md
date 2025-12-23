@@ -9,3 +9,6 @@ pip install requests psutil pyjwt aiohttp pytz cfonts protobuf pycryptodome
 pip uninstall crypto pycrypto -y
 pip install pycryptodome
 pip install protobuf-decoder
+git clone https://github.com/Ehmunna/EH-MUNNA-Bot.git
+cd EH-MUNNA-Bot
+python main.py
