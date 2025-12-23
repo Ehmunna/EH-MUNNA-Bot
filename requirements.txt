@@ -10,3 +10,4 @@ protobuf-decoder
 pytz
 aiohttp
 cfonts
+flask
