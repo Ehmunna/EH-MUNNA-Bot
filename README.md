@@ -12,3 +12,6 @@ pip install protobuf-decoder
 git clone https://github.com/Ehmunna/EH-MUNNA-Bot.git
 cd EH-MUNNA-Bot
 python main.py
+
+## please create a free fire guest account tish file saved uid and password 🔑 this file open with mtmaneger and uid and password
+copy and modify main.py file and run command 
